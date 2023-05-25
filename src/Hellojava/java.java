@@ -17,5 +17,9 @@ public class java {
         System.out.println("Heyyyyyyyyyyy");
         System.out.println("123");
         //System.out.println("asdfghj");
-        int a = 2;    }
+        int a = 2;  
+    int b = 4;
+    int c = a + b;
+    int d = a + b + c;
+    }
 }
