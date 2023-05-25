@@ -17,5 +17,5 @@ public class java {
         System.out.println("Heyyyyyyyyyyy");
         System.out.println("123");
         //System.out.println("asdfghj");
-    }
+        int a = 2;    }
 }
